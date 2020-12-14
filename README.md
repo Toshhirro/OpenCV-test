@@ -1,2 +1,2 @@
 # OpenCV-test
-test projects using OpenCV
+test samples using OpenCV Cascades
